@@ -1,0 +1,6 @@
+framework module Pods_ARMotion {
+  umbrella header "Pods-ARMotion-umbrella.h"
+
+  export *
+  module * { export * }
+}
